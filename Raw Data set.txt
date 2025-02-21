@@ -1,0 +1,20 @@
+First Name	Last Name	Full Name	 Hire Date 	Salary	Position	Department
+Abraham	 Johnny 	Abraham  Johnny 	3/30/2013	"$27,000.00"	Engineering	Trainee
+Baker	 Sarah	Baker  Sarah	4/30/2015	"$36,000.00"	Sales	Sales Executive
+Balotelli	 Billy	Balotelli  Billy	11/15/2007	"$23,900.00"	Engineering	Intern
+Barker	 Betty	Barker  Betty	7/25/2007	"$43,500.00"	Sales	Sales Executive
+Bishop	 Tiana 	Bishop  Tiana 	12/4/2003	"$46,500.00"	Engineering	Manager
+Boateng	 Terryy	Boateng  Terryy	7/27/2009	"$50,000.00"	Accounts	Cost Accountant
+Boer	 Fred 	Boer  Fred 	12/23/2010	"$46,000.00"	Marketing	Designer
+Bursteyn	  Tom 	Bursteyn   Tom 	11/4/2000	"$21,000.00"	Sales	Sales Trainee
+Bursteyn	 Tammy 	Bursteyn  Tammy 	9/8/2004	"$38,000.00"	Sales	Sales Executive
+Busser	 Bobby	Busser  Bobby	6/10/2002	"$29,950.00"	Accounts	Senior Administrator
+Casciewicz	 Kathy	Casciewicz  Kathy	12/15/2011	"$41,000.00"	Sales	Senior Technician
+Cole	 Ashley 	Cole  Ashley 	11/1/2010	"$54,000.00"	Sales	Cost Accountant
+Cookson	 Charles	Cookson  Charles	4/3/2012	"$63,200.00"	R & D	Vp
+Crossley	 Erin 	Crossley  Erin 	4/23/2009	"$46,000.00"	Admin	Team Leader
+Darnstein	 Danny	Darnstein  Danny	12/14/2011	"$52,000.00"	Engineering	Cost Accountant
+Doe	 Jane 	Doe  Jane 	7/25/2015	"$21,500.00"	R & D	Trainee
+Doe	 John  	Doe  John  	6/5/2014	"$45,600.00"	Engineering	Intern
+Fallengrano	 Bill 	Fallengrano  Bill 	6/29/2001	"$56,750.00"	Engineering	Senior Administrator
+Juarez	 Jose 	Juarez  Jose 	1/23/2013	"$39,000.00"	Admin	Intern
